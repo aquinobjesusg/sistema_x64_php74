@@ -2,7 +2,7 @@
 # Información
 Aquí ay conjunto de herramientas, lenguajes de programación,  
 y servicios que se utilizan para desarrollar y ejecutar aplicaciones 
-web en php bajo windows con maquinas de pocos recursos en 32bits, 
+web en php bajo windows con maquinas de pocos recursos en 64bits, 
 usando php7.4 y mariadbx32.
 
 Es un stack simple de instalar sin la necesidad de instalar 
